@@ -1,1 +1,1 @@
-# Replications of various methods of Gaussian Graphical Model (GGM) in R
+# Replications of methods for Gaussian Graphical Model (GGM) in R
