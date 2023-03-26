@@ -1,1 +1,1 @@
-# GGM_replications
+# GGM_replications in R
