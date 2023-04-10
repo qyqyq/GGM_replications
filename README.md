@@ -7,5 +7,5 @@ Sparse Group Lasso: Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. "A n
 
 # Replications of methods for Gaussian Graphical Model (GGM) in R
 
-### 
-
+### graphical_lasso.ipynb
+Graphical Lasso (GLasso): Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. "Sparse inverse covariance estimation with the graphical lasso." Biostatistics 9.3 (2008): 432-441.
