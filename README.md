@@ -1,5 +1,6 @@
-# Statistics basics,
+# Statistics basics
 
-# replications of methods for Gaussian Graphical Model (GGM) in R
+
+# Replications of methods for Gaussian Graphical Model (GGM) in R
 
 
