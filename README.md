@@ -1,4 +1,4 @@
-# Statistics basics and Gaussian Graphical Model (GGM) in pure R
+# Statistics basics and Gaussian Graphical Model (GGM) in R
 
 ## Statistics basics
 
